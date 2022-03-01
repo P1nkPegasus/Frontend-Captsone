@@ -6,5 +6,6 @@ import { HttpClient } from '@angular/common/http';
 })
 export class CharityService {
 
+  private baseUrl = "https://springboot-postgresql-charity.herokuapp.com/api/charities";
   constructor(private http: HttpClient) { }
 }
