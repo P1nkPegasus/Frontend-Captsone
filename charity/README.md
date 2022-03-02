@@ -44,6 +44,12 @@ This is the frontend to the Charity app and I had to plan out how I could finish
 | 6   | As a User I should be able to know when I need to complete a field                  |
 | 7   | As a User I should be able to know what field needs to be adjusted                    |
 
+## Challenges 
+
+I ran into a few challenges while creating this project. One was understanding how Bootstrap 5 works to get a design that would be seamless. The next issue was remembering where to import information into. The largest issue that I had was connecting the backend to populate the data to the frontend. I kept running into a CORS error and it also prevented me from seeing my cards on the charities page. Lastly, staying prioritizing functionality over design took some adjusting.
+
+FRONT END: 
+Finding good royalty free pictures
 
 ## Tools
 
