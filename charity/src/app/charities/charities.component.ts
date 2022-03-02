@@ -7,7 +7,7 @@ import { Charity } from "../charity";
 })
 export class CharitiesComponent implements OnInit {
 
-  charities: Charity[];
+  charities: Charity[] = [];
 
   constructor() { }
 
