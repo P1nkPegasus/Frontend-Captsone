@@ -27,6 +27,15 @@ This is the frontend to the Charity app and I had to plan out how I could finish
 
 * add relevant information to the ReadMe
 
+## Tools
+
+| 1   | VS Code |
+|-----|---------------|
+| 2   | Angular       |
+| 3   | Bootstrap 5   |
+| 4   | Typescript    |
+| 5   | wireframe.cc  |
+| 6   | Heroku        |
 ## Resources 
 https://www.census.gov/newsroom/stories/poverty-awareness-month.html
 <br> https://www.census.gov/newsroom/stories/homeless-persons-memorial-day.html
