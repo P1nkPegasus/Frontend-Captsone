@@ -33,6 +33,17 @@ This is the frontend to the Charity app and I had to plan out how I could finish
 ![households](https://user-images.githubusercontent.com/77082461/156402011-2d1da7c0-6fdf-4c1d-b8fa-f2b72ec611f6.png)
 ![contact us](https://user-images.githubusercontent.com/77082461/156402007-3fcb7077-6293-4f18-860a-c9a1e2885519.png)
 
+## User Stories 
+
+| 1   | As a User I should be able to click on the nav bar and go to a different webpage in order to see the corresponding information                                    |
+|-----|---------------------------------------------------------------------------------------|
+| 2   | As a User I should be able to see a list of charities on the charities page                                  |
+| 3   | As a User I should be able to click a charity and the corresponding households so that I can sponsor a specific household                                |
+| 4   | As a User I should be able to click a household and the corresponding individuals so that I can sponsor specific needs                                   |
+| 5   | As a User I should be able to complete a form so that I can be contacted by a charity                               |
+| 6   | As a User I should be able to know when I need to complete a field                  |
+| 7   | As a User I should be able to know what field needs to be adjusted                    |
+
 
 ## Tools
 
