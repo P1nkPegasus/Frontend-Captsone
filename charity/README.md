@@ -26,6 +26,13 @@ This is the frontend to the Charity app and I had to plan out how I could finish
 <br>6: review and fix any small errors *
 
 * add relevant information to the ReadMe
+## Wireframe 
+![home](https://user-images.githubusercontent.com/77082461/156402015-b4df8b47-28e7-4095-ae58-05850628d177.png)
+![about](https://user-images.githubusercontent.com/77082461/156402012-212c26b8-9418-4b11-a5ea-611577736107.png)
+![charities](https://user-images.githubusercontent.com/77082461/156402011-2d1da7c0-6fdf-4c1d-b8fa-f2b72ec611f6.png)
+![households](https://user-images.githubusercontent.com/77082461/156402011-2d1da7c0-6fdf-4c1d-b8fa-f2b72ec611f6.png)
+![contact us](https://user-images.githubusercontent.com/77082461/156402007-3fcb7077-6293-4f18-860a-c9a1e2885519.png)
+
 
 ## Tools
 
@@ -34,7 +41,7 @@ This is the frontend to the Charity app and I had to plan out how I could finish
 | 2   | Angular       |
 | 3   | Bootstrap 5   |
 | 4   | Typescript    |
-| 5   | wireframe.cc  |
+| 5   | Wireframe.cc  |
 | 6   | Heroku        |
 ## Resources 
 https://www.census.gov/newsroom/stories/poverty-awareness-month.html
