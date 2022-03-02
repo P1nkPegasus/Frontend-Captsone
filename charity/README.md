@@ -1,4 +1,4 @@
-# Frontend-Captsone
+<!-- # Frontend-Captsone
 ![CharityVector](https://static.vecteezy.com/system/resources/previews/000/398/804/non_2x/illustration-of-charity-support-vector.jpg)
 
 deployed link: 
@@ -30,7 +30,7 @@ This is the frontend to the Charity app and I had to plan out how I could finish
 ## Resources 
 https://www.census.gov/newsroom/stories/poverty-awareness-month.html
 <br> https://www.census.gov/newsroom/stories/homeless-persons-memorial-day.html
-<br>https://www.vecteezy.com/free-vector/charity
+<br>https://www.vecteezy.com/free-vector/charity -->
 
 # Charity
 
