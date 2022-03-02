@@ -13,6 +13,7 @@ export class CharityService {
   constructor(private http: HttpClient) { }
 
   getCharityList(): Observable<Charity[]>{
-    return this.httpClient.get<Charity[]>(`${this.baseUrl}`);
+    return this.http.get<Charity[]>(`${this.baseUrl}`);
+    //is http supposed to be http client?
   }
 }

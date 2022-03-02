@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Charity } from "../charity";
+import { CharityService } from '../charity.service';
 @Component({
   selector: 'app-charities',
   templateUrl: './charities.component.html',
@@ -9,7 +10,7 @@ export class CharitiesComponent implements OnInit {
 
   charities: Charity[] = [];
 
-  constructor() { }
+  constructor(private charityService: CharityService) { }
 
   ngOnInit(): void {
   }
