@@ -1,7 +1,18 @@
 <!-- <p>charities works!</p> -->
-<div class="card" style="width: 18rem;">
-    <div class="card-body" *ngFor = "let charity of charities" >
-      <h5 class="card-title">Charity Name</h5>
+
+<div class="card" style="width: 18rem;" >
+
+    <!-- TODO interpolation is stopping the card from showing, but the ngFor is need too -->
+    <!-- <div *ngFor = "let charity of charities" class="card" style="width: 18rem;" > -->
+
+    <div class="card-body" >
+        <div class="card-body" >
+            <!-- *ngFor = "let charity of charities"  -->
+      <h5 class="card-title"> Charity </h5>
+      
+      <!-- TODO interpolation is stopping the card from showing, but the ngFor is need too -->
+      <!-- <h5 class="card-title">  {{ charity.name }} </h5> -->
+
       <h6 class="card-subtitle mb-2 text-muted">Charity Location</h6>
       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
       <a href="https://catholiccharities.net/default.aspx" class="card-link">Charity Link</a>
