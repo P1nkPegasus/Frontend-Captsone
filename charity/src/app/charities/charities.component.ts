@@ -13,6 +13,14 @@ export class CharitiesComponent implements OnInit {
   constructor(private charityService: CharityService) { }
 
   ngOnInit(): void {
+    this.getCharities();
+  }
+
+  private getCharities (){
+    this.charityService.getCharityList()
+    .subscribe(data => {
+    this.charities = data;
+    });
   }
 
 }
