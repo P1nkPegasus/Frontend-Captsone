@@ -14,10 +14,11 @@ export class CharityService {
   // private baseUrl = "https://springboot-postgresql-charity.herokuapp.com/api/charities";
   constructor(private http: HttpClient) { }
 
-  apiObservable(){
-    return this.http
-    .get(`https://springboot-postgresql-charity.herokuapp.com/api/charities`)
-  }
+  // apiObservable(){
+  //   return this.http
+  //   .get(`https://springboot-postgresql-charity.herokuapp.com/api/charities`)
+  // }
+
 
   // getCharityList(): Observable<Charities[]>{
   //   return this.http.get<Charities[]>(`${this.baseUrl}`);
