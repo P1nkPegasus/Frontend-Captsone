@@ -4,6 +4,6 @@ export class Charity {
     address: string;
     state: string;
     phoneNumber: number;
-    website: string;
+    website!: string;
 
 }
