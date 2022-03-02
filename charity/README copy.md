@@ -26,3 +26,8 @@ This is the frontend to the Charity app and I had to plan out how I could finish
 <br>6: review and fix any small errors *
 
 * add relevant information to the ReadMe
+
+## Resources 
+https://www.census.gov/newsroom/stories/poverty-awareness-month.html
+<br> https://www.census.gov/newsroom/stories/homeless-persons-memorial-day.html
+<br>https://www.vecteezy.com/free-vector/charity
